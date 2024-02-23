@@ -1,5 +1,19 @@
-p {
+.paragraph {
     font-family: monospace;
     font-size: 24px;
     color: green;
+}
+
+.title {
+    text-decoration: underline;
+    font-style: oblique;
+}
+
+#second_title {
+    color: red;
+
+}
+
+#second_paragraph{
+    color: blue;
 }
